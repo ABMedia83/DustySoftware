@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DustyConsole/1.0.0": {
+        "dependencies": {
+          "Dusty": "1.0.0"
+        },
+        "runtime": {
+          "DustyConsole.dll": {}
+        }
+      },
+      "Dusty/1.0.0": {
+        "runtime": {
+          "Dusty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DustyConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dusty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

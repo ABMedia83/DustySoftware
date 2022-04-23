@@ -1,0 +1,12 @@
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\bin\Debug\net6.0\Dusty.deps.json
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\bin\Debug\net6.0\Dusty.dll
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\bin\Debug\net6.0\Dusty.pdb
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\Dusty.csproj.AssemblyReference.cache
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\Dusty.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\Dusty.AssemblyInfoInputs.cache
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\Dusty.AssemblyInfo.cs
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\Dusty.csproj.CoreCompileInputs.cache
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\Dusty.dll
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\refint\Dusty.dll
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\Dusty.pdb
+C:\AMB\Git\DustySoftware\DustyCode\Dusty\obj\Debug\net6.0\ref\Dusty.dll

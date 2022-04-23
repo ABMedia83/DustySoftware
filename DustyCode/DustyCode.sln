@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "DustyCode", "DustyCode\DustyCode.shproj", "{EE9CD0AA-4209-4374-9E1C-1BD71E961E98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dusty", "Dusty\Dusty.csproj", "{870300A8-4689-4BAB-92CA-F65FF76A0CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DustyConsole", "DustyConsole\DustyConsole.csproj", "{61E7B571-5BBB-45C6-88C7-6BD590AA49F8}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		DustyCode\DustyCode.projitems*{ee9cd0aa-4209-4374-9e1c-1bd71e961e98}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870300A8-4689-4BAB-92CA-F65FF76A0CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870300A8-4689-4BAB-92CA-F65FF76A0CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870300A8-4689-4BAB-92CA-F65FF76A0CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870300A8-4689-4BAB-92CA-F65FF76A0CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E7B571-5BBB-45C6-88C7-6BD590AA49F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E7B571-5BBB-45C6-88C7-6BD590AA49F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E7B571-5BBB-45C6-88C7-6BD590AA49F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E7B571-5BBB-45C6-88C7-6BD590AA49F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A7293E3-A03C-437C-8CC5-25E117E777B8}
+	EndGlobalSection
+EndGlobal

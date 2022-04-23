@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AvbUw8hJvLwcTCnbt1UFrd5ugYmiSNbmCjkrkkDlEtvs6LKICziQL2oCLUA1+3ICdKFKwGcn6obY+0HkIgFz/A==",
+  "success": true,
+  "projectFilePath": "C:\\AMB\\Git\\DustySoftware\\DustyCode\\DustyConsole\\DustyConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alxp2\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.3\\microsoft.netcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\alxp2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.3\\microsoft.windowsdesktop.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\alxp2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.3\\microsoft.aspnetcore.app.ref.6.0.3.nupkg.sha512",
+    "C:\\Users\\alxp2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.3\\microsoft.netcore.app.host.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
