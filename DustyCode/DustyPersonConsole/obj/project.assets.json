@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AMB\\Git\\DustySoftware\\DustyCode\\DustyConsole\\DustyConsole.csproj",
-      "projectName": "DustyConsole",
-      "projectPath": "C:\\AMB\\Git\\DustySoftware\\DustyCode\\DustyConsole\\DustyConsole.csproj",
+      "projectUniqueName": "C:\\AMB\\Git\\DustySoftware\\DustyCode\\DustyPersonConsole\\DustyPersonConsole.csproj",
+      "projectName": "DustyPersonConsole",
+      "projectPath": "C:\\AMB\\Git\\DustySoftware\\DustyCode\\DustyPersonConsole\\DustyPersonConsole.csproj",
       "packagesPath": "C:\\Users\\alxp2\\.nuget\\packages\\",
-      "outputPath": "C:\\AMB\\Git\\DustySoftware\\DustyCode\\DustyConsole\\obj\\",
+      "outputPath": "C:\\AMB\\Git\\DustySoftware\\DustyCode\\DustyPersonConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

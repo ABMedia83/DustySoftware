@@ -27,10 +27,7 @@ void Start()
 }
 
 void DustyMethod()
-{
-    WriteTitle("The Dusty Method");
-    WriteLine("This Method is very dusty!");
-
+{dm
     WriteExit(Start,DustyMethod); 
 }
 

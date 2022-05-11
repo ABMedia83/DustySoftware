@@ -1,0 +1,47 @@
+C# Basic Keywords 
+---------------------------------------- 
+Keywords
+
+Types 
+-------------------------
+
+class 
+A Class is a Refence Type that be customize to fit what your prgramming needs are.
+
+struct 
+A Struct is a Value type that can be customize to fit your programming needs.
+
+record 
+A Record is a Reference type that is designed to deal with read-only/Immutable Data. It's a class type that sort of operate like a value type in functionality. 
+
+
+
+object: System.Object 
+This unified type of C#. Every type in C# is inherited from the object type 
+
+dynamic: System.Dynamic 
+A special type that avoid's the Compile time check. 
+
+string: System.String 
+A reference type that repsent a sequence of 0's and Unicode characters. 
+
+char: System.Char
+A refrecnce type that repsents a single character. 
+"a" 
+
+bool: System.Boolean 
+Represents a True or False Value Type
+
+int: System.Int32
+This is number type designed to represent a Whole Number. 
+
+1, 2, 3, 45, 199, 200, 399, 39
+
+double: System.Double 
+This  represent a Basic Float/Real Number 
+
+3.3, .04, .38, 3.5, 3.3
+
+decimal: System.Deciamal
+This also repesents a floating type designed to deal with money and other complex math.  
+
