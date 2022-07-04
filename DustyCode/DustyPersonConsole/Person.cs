@@ -13,11 +13,7 @@ public class Person
     public Person() 
     {
         FirstName = "Albert";
-        LastName = "Something";
-        Gender = Gender.Male;
-
-        
-       
+        LastName = "Something"; 
 
     }
 
@@ -40,32 +36,7 @@ public class Person
         set => lastName = value;
     }
 
-    public string GenderString 
-    {
-        get => genderString;
-        private set => genderString = value;
-    }
 
-    public Gender Gender 
-    {
-        get => gender;
-        set 
-        { 
-            gender = value;
-
-            switch(value)
-            {
-                case Gender.Male:
-                GenderString = "Male";
-                break;
-                case Gender.Fematle:
-
-                GenderString = "Female";
-
-                break;
-            }
-        }
-    }
 
 
 
