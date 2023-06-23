@@ -1,0 +1,15 @@
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\bin\Debug\net7.0\SBE_CMD.exe
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\bin\Debug\net7.0\SBE_CMD.deps.json
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\bin\Debug\net7.0\SBE_CMD.runtimeconfig.json
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\bin\Debug\net7.0\SBE_CMD.dll
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\bin\Debug\net7.0\SBE_CMD.pdb
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.csproj.AssemblyReference.cache
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.AssemblyInfoInputs.cache
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.AssemblyInfo.cs
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.csproj.CoreCompileInputs.cache
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.dll
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\refint\SBE_CMD.dll
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.pdb
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\SBE_CMD.genruntimeconfig.cache
+C:\AMB\Git\DustySoftware\SBE Software\SBE_CMD\obj\Debug\net7.0\ref\SBE_CMD.dll

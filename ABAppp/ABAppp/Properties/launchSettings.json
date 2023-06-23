@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ABAppp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ABAppp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
